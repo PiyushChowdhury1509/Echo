@@ -1,5 +1,7 @@
 # 🚀 Echo — Real-Time Social Network
 
+Created by **Piyush Chowdhury**
+
 Echo is a **next-generation, real-time social media platform** inspired by Twitter/X, built with **scalability, performance, and modern communication** at its core.
 
 It is designed to handle **millions of concurrent users**, real-time updates, live interactions, and future-ready features like audio/video communication.
